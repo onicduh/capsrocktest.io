@@ -1,0 +1,46 @@
+Extract the downloaded source code zip file.
+Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database named fos_db.
+Import the provided SQL file. The file is known as fos_db.sql located inside the database folder.
+Browse the Online Food Ordering System V2 in a browser. i.e. http://localhost/fos/ and http://localhost/fos/admin for the admin side.
+
+Admin Default Access:
+
+Username: admin
+Password: admin123
+
+That's it! I hope this Online Food Ordering System V2 in PHP and MySQL Database Project helps you with what you are looking for and that you'll find something useful from the source code for your current and future PHP Projects. Feel free to leave a comment with any queries regarding this updated version of the system source code.
+
+Feature Added
+
+    Menu List Pagination
+    Admin Dashboard Summary
+    Secure Login using hashed Password
+    Revised the Website Header Design
+    Revised the Admin Login Design
+    Revised the Admin Template
+
+Online Food Ordering System V2 Features and Functionalities
+Admin Side
+
+    Admin Dashboard Summary
+    Category Management (CRUD)
+    Menu/Product Management (CRUD)
+    Order Management
+    Admin-site User Management (CRUD)
+    System Information/Settings Management
+    Secure Login and Logout
+
+Client-Side
+
+    Secure Login and Logout
+    Registration
+    Menu List w/ Pagination
+    Menu/Product Details Modal
+    Add to Cart
+    Shopping Cart List Page
+    Update Shopping Cart Items
+    Checkout Page
+
+The Online Food Ordering System V2 project source code is free to download on this website. You can download the source code zip file by clicking the Download button located below this article content. Feel Free to download and modify the project the way you wanted.
